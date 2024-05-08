@@ -8,6 +8,7 @@ Bury
 Cheshire East
 Cornwall
 County Durham
+Coventry
 Darlington
 Derby
 Derbyshire
@@ -45,7 +46,11 @@ Tameside
 Teesside
 Telford and Wrekin
 Thurrock
+Warwickshire
 Warrington
+Wigan
 Windsor and Maidenhead
 Wirral
 Worcestershire
+All
+Fettle
