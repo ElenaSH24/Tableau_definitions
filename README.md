@@ -12,4 +12,4 @@ Once each page is finished, type this, adapting the month to the end of the rele
       cd c:\temp
       merge_pdf_sh24 -o "Month 2023" merge_areas.txt
 
-The last version of the definitions.csv should be in c:\temp  
+The last version of the definitions.csv and the merge_areas.txt should be stored in c:\temp for the process to work.
