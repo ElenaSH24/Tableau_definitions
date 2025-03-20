@@ -6,6 +6,7 @@ Bromley
 Buckinghamshire
 Bury
 Cheshire East
+Cheshire West and Chester
 Cornwall
 County Durham
 Coventry
@@ -14,9 +15,8 @@ Derby
 Derbyshire
 Dorset
 Doncaster
-East Sussex
+Dudley
 Essex
-Gateshead
 Glasgow
 Halton
 Hertfordshire
@@ -28,6 +28,7 @@ Knowsley
 Leicester
 Leicestershire
 Liverpool
+Manchester
 North Staffordshire
 Northern Ireland
 Oldham
@@ -37,15 +38,15 @@ Rotherham
 Rutland
 Slough
 Southend
-South Tyneside
 Staffordshire
 Stockport
 Stoke
-Sunderland
 Tameside
 Teesside
 Telford and Wrekin
+Thurrock
 Trafford
+Trafford NCSP
 Warwickshire
 Warrington
 Wigan
